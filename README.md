@@ -1,6 +1,6 @@
 # Design Patterns in Go 🚀
 
-Reporsitorio de apredizaje
+Reporsitorio de aprendizaje
 
 ## Patrones de diseño
 
